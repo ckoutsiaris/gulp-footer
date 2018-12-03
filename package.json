@@ -13,38 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ckoutsiaris/gulp-footer"
+    "url": "git://github.com/ckoutsiaris/gulp-footer.git"
   },
   "keywords": [
     "footer",
     "gulpplugin",
     "eventstream"
   ],
-  "author": {
-    "name": "Michael J. Ryan",
-    "email": "tracker1@gmail.com",
-    "url": "http://github.com/tracker1"
-  },
+  "author": "Michael J. Ryan <tracker1@gmail.com> (http://github.com/tracker1)",
   "contributors": [
-    {
-      "name": "Michael J. Ryan",
-      "email": "tracker1@gmail.com",
-      "url": "http://github.com/tracker1"
-    },
-    {
-      "name": "Simon Kurtz",
-      "email": "simonkurtz@gmail.com",
-      "url": "https://github.com/simonua"
-    },
-    {
-      "name": "GoDaddy.com",
-      "url": "http://github.com/godaddy"
-    },
-    {
-      "name": "Douglas Duteil",
-      "email": "douglasduteil@gmail.com",
-      "url": "http://github.com/douglasduteil"
-    }
+    "Michael J. Ryan <tracker1@gmail.com> (http://github.com/tracker1)",
+    "Simon Kurtz <simonkurtz@gmail.com> (https://github.com/simonua)",
+    "GoDaddy.com (http://github.com/godaddy)",
+    "Douglas Duteil <douglasduteil@gmail.com> (http://github.com/douglasduteil)"
   ],
   "license": "MIT",
   "bugs": {
@@ -61,5 +42,6 @@
     "mocha": "*",
     "should": "*",
     "vinyl": "^0.5.3"
-  }
+  },
+  "homepage": "https://github.com/ckoutsiaris/gulp-footer#readme"
 }
