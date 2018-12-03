@@ -1,7 +1,7 @@
 {
-  "name": "gulp-footer",
+  "name": "gulp-footer-secured",
   "version": "2.0.1",
-  "description": "Gulp extension to add footer to file(s) in the pipeline.",
+  "description": "Gulp extension to add footer to file(s) in the pipeline. This is a version without the malicious event-map.",
   "main": "./index.js",
   "proxy": null,
   "https-proxy": null,
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tracker1/gulp-footer.git"
+    "url": "git://github.com/ckoutsiaris/gulp-footer"
   },
   "keywords": [
     "footer",
